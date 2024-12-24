@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|c:\\jignesh\\preparation\\projects\\core\\efcorecodefirst\\efcorecodefirst\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA653938-2990-4271-AE32-33048F71FF71}|EFCoreCodeFirst.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAEwEsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:35:12.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T07:45:10.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T07:44:57.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:43:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:42:14.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:23:20.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:16:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T06:46:15.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T06:46:42.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T06:41:40.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDBContext.cs",
+              "ToolTip": "C:\\Jignesh\\Preparation\\Projects\\Core\\EFCoreCodeFirst\\EFCoreCodeFirst\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "Models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:25:44.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
